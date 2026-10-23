@@ -1,5 +1,5 @@
 # AFluID
-Pipeline for Influenza A virus segment and genotype identification though homolgy clustering and local alignment
+Integrated Bioinformatics Framework for First-Line Genomic Characterization of Non-Seasonal Influenza Viruses
 
 ## Installation
 
